@@ -1,0 +1,12 @@
+name: covidtrax
+title:
+username:
+account: carolineowens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3247438
+bundleId: 3882407
+url: https://carolineowens.shinyapps.io/covidtrax/
+when: 1605824190.41502
+asMultiple: FALSE
+asStatic: FALSE
